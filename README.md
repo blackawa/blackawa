@@ -1,4 +1,8 @@
-### Hi there 👋
+### Experience
+
+- Java / SpringBoot engineer
+- React frontend engineer
+- Clojure/Script engineer
 
 <!--
 **blackawa/blackawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
