@@ -4,6 +4,11 @@
 - React frontend engineer
 - Clojure/Script engineer
 
+### External Links
+
+- 🐦 [Twitter](https://twitter.com/blackawa0)
+- 📖 [Scrapbox](https://scrapbox.com/blackawa)
+
 <!--
 **blackawa/blackawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
